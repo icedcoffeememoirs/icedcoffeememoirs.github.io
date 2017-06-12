@@ -27,7 +27,7 @@ h2{
 }
 #paragraphlist{
 	color: #808285;
-	text-align: left;
+	text-align: center;
 }
 li{
 	text-align:left;
@@ -48,6 +48,6 @@ img{
 }
 #calltoaction{
 	font-weight: bold;
-	text-align: left;
+	text-align: center;
 
 }
