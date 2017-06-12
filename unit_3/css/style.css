@@ -12,7 +12,7 @@ body {
 	color: #808285;
 	font-size: 18px;
 	font-family: "Courier New", monospace;
-	text-align: center;
+	text-align: left;
 }
 h2{
 	color: #000;
@@ -27,7 +27,7 @@ li{
 	text-align: center;
 }
 #firsthr {
-	width: 400px;
+	width: 600px;
 }
 #secondhr {
 	width:200px;
