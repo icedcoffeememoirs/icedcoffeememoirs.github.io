@@ -29,6 +29,9 @@ h2{
 	color: #808285;
 	text-align: left;
 }
+li{
+	text-align:left;
+}
 #firsthr {
 	width: 600px;
 }
@@ -45,6 +48,6 @@ img{
 }
 #calltoaction{
 	font-weight: bold;
-	text-align: center;
+	text-align: left;
 
 }
