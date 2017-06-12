@@ -15,7 +15,7 @@ body {
 	text-align: center;
 }
 p{
-	text-align: left;
+	text-align: center;
 }
 h2{
 	color: #000;
@@ -29,7 +29,7 @@ h2{
 	color: #808285;
 	text-align: center;
 }
-li{
+ul{
 	text-align:center;
 }
 #firsthr {
