@@ -1,0 +1,23 @@
+body {
+	background: white;
+	color: #808285;
+	font-size: 14px;
+	font-family: Lora, Serif;
+}
+h1 {
+	color: #3AD6D5;
+	font-family: Josefina, sans-serif;
+	text-decoration: italic;
+}
+img{
+	
+}
+ul {
+	color: #FFD69A;
+}
+li {
+	color: #808285;
+}
+link {
+	color: #8EF2FF;
+}
