@@ -1,6 +1,6 @@
 h1 {
 	color: #000;
-	font-family: "Droid Serif", Serif;
+	font-family: "Palatino", Serif;
 	font-style: italic;
 	text-align: center;
 	font-weight: bold;
@@ -11,8 +11,16 @@ body {
 	background: white;
 	color: #808285;
 	font-size: 18px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Palatino", Serif;
 	text-align: center;
+}
+h2{
+	color: #000;
+	font-family: "Palatino", Serif;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
 }
 li{
 	color: #FFD69A;
@@ -29,7 +37,7 @@ a {
 	font-weight: bold;
 }
 img{ 
-	width: 1000px;
+	width: cover;
 }
 #calltoaction{
 	font-weight: bold;
