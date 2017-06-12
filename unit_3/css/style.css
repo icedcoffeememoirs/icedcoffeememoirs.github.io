@@ -1,23 +1,24 @@
-body {
-	background: white;
-	color: #808285;
-	font-size: 14px;
-	font-family: Lora, Serif;
-}
 h1 {
 	color: #3AD6D5;
-	font-family: Josefina, sans-serif;
+	font-family: "Courier New", monospace;
 	text-decoration: italic;
+	text-align: center;
+	font-weight: bold;
 }
-img{
-	
+body,li {
+	background: white;
+	color: #808285;
+	font-size: 18px;
+	font-family: "Courier New", monospace;
+	text-align: center;
 }
 ul {
 	color: #FFD69A;
 }
-li {
-	color: #808285;
-}
-link {
+a {
 	color: #8EF2FF;
+	text-decoration: none;
+}
+img{ 
+	width: 800px;
 }
