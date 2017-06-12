@@ -25,10 +25,7 @@ h2{
 ul{
 	color: #808285;
 	text-align: center;
-}
-li{
-	color: #808285;
-	text-align: center;
+	list-style-position: inside;
 }
 #firsthr {
 	width: 600px;
