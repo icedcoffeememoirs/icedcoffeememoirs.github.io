@@ -10,7 +10,10 @@ body,li {
 	color: #808285;
 	font-size: 18px;
 	font-family: "Courier New", monospace;
-	text-align: center;
+	text-align: left;
+}
+hr {
+	width: 200px;
 }
 ul {
 	color: #FFD69A;
@@ -19,6 +22,7 @@ ul {
 a {
 	color: #FFD69A;
 	text-decoration: none;
+	font-weight: bold;
 }
 img{ 
 	width: 800px;
