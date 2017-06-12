@@ -23,7 +23,8 @@ h2{
 	font-size: 25px;
 }
 li{
-	color: #FFD69A;
+	color: #C9642E;
+	text-align: justify;
 }
 #firsthr {
 	width: 400px;
@@ -32,12 +33,12 @@ li{
 	width:200px;
 }
 a {
-	color: #FFD69A;
+	color: #3B74FF;
 	text-decoration: none;
 	font-weight: bold;
 }
 img{ 
-	width: cover;
+	width: 1000px;
 }
 #calltoaction{
 	font-weight: bold;
