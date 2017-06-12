@@ -14,11 +14,16 @@ body,li {
 }
 ul {
 	color: #FFD69A;
+	text-align: center;
 }
 a {
-	color: #8EF2FF;
+	color: #FFD69A;
 	text-decoration: none;
 }
 img{ 
 	width: 800px;
+}
+#calltoaction{
+	font-weight: bold;
+
 }
