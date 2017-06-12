@@ -1,23 +1,27 @@
 h1 {
-	color: #3AD6D5;
-	font-family: "Courier New", monospace;
-	text-decoration: italic;
+	color: #000;
+	font-family: "Droid Serif", Serif;
+	font-style: italic;
 	text-align: center;
 	font-weight: bold;
+	font-size: 50px;
+
 }
-body,li {
+body {
 	background: white;
 	color: #808285;
 	font-size: 18px;
-	font-family: "Courier New", monospace;
+	font-family: "Open Sans", sans-serif;
 	text-align: center;
 }
-hr {
-	width: 200px;
-}
-ul {
+li{
 	color: #FFD69A;
-	text-align: center;
+}
+#firsthr {
+	width: 400px;
+}
+#secondhr {
+	width:200px;
 }
 a {
 	color: #FFD69A;
@@ -25,7 +29,7 @@ a {
 	font-weight: bold;
 }
 img{ 
-	width: 800px;
+	width: 1000px;
 }
 #calltoaction{
 	font-weight: bold;
