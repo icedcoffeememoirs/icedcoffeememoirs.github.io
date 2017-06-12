@@ -12,7 +12,7 @@ body {
 	color: #808285;
 	font-size: 18px;
 	font-family: "Courier New", monospace;
-	text-align: left;
+	text-align: center;
 }
 h2{
 	color: #000;
@@ -20,7 +20,11 @@ h2{
 	font-style: italic;
 	text-align: center;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
+}
+ul{
+	color: #808285;
+	text-align: center;
 }
 li{
 	color: #808285;
