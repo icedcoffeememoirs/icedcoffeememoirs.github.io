@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Condensed');
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	color: #000;
+	font-family: "Roboto Condensed", sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 1.5em;
+
+}
+body {
+	background: white;
+	color: #808285;
+	font-size: 18px;
+	line-height: 1.5em;
+	font-family: "Crimson Text", serif;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+h2{
+	color: #000;
+	font-family: "Roboto Condensed", sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+#paragraphlist{
+	color: #808285;
+	text-align: center;
+	font-family: "Crimson Text", serif;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+}
+#firsthr {
+	width: 600px;
+}
+a {
+	color: #3B74FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+img{ 
+	width: 1000px;
+}
+#calltoaction{
+	font-weight: bold;
+	text-align: center;
+
+}
